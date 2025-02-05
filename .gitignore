@@ -1,0 +1,15 @@
+# Ignore Composer dependencies
+vendor/
+composer.lock
+
+# Ignore environment-specific files
+.env
+
+# Ignore cache and logs
+cache/
+logs/
+.phalcon/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
